@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import MessageExporter
+import MyMessageExporter
 
 struct ManagerInjector {
     

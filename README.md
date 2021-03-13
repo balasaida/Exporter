@@ -42,7 +42,7 @@ MyExporter project demonstrates how to use the MyMessageExporter framework and h
 ## Requirements
 
 - iOS 12.0+ | macOS 10.15.5+
-- Xcode 12.0
+- Xcode 11.3.1
 
 # Usage
 
