@@ -34,14 +34,14 @@ https://github.com/balasaida/MessageExporter
 Added a framework into the project
 
 ```
-https://github.com/balasaida/Exporter
+https://github.com/balasaida/Exporter/tree/develop
 ```
 
 MyExporter project demonstrates how to use the MyMessageExporter framework and helps you to understand the framework better.
 
 ## Requirements
 
-- iOS 12.0+ | macOS 10.15.5+
+- iOS 11.0+ | macOS 10.15.5+
 - Xcode 11.3.1
 
 # Usage
